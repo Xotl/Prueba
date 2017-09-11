@@ -1,0 +1,25 @@
+{
+  "name": "chilaquiles.io",
+  "version": "0.1.0",
+  "description": "\"Rest API Generator From a Database Schema\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hay-espacio-en-el-taco/chilaquiles.io.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hay-espacio-en-el-taco/chilaquiles.io/issues"
+  },
+  "homepage": "https://github.com/hay-espacio-en-el-taco/chilaquiles.io#readme",
+  "dependencies": {
+    "graphql": "^0.11.3"
+  }
+}
